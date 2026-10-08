@@ -6,6 +6,10 @@
 
 하지만 Pages에서 visit을 통해 정상적으로 사이트를 방문할 수 있다.
 
+<원인 확인> : README 파일이 Pages의 배포 출처인 main branch에 웹 관련 파일들과 함께 존재하여 README 파일을 수정 시 새롭게 workflow를 생성함.
+
+(deploy form a branch --> main /root와 같이 되어 있는 상태를 말하는 것)
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e69b9e53-4d00-476b-9888-c18e06d856e4" />
 <br>
 <br>
