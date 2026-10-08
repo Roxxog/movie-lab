@@ -1,5 +1,16 @@
 # movie-lab
 
+현재 Actions에 또 다른 2개의 deployment가 생김.
+
+왜 추가 됐는지 잘 모르겠다.
+
+하지만 Pages에서 visit을 통해 정상적으로 사이트를 방문할 수 있다.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e69b9e53-4d00-476b-9888-c18e06d856e4" />
+<br>
+<br>
+<br>
+<br>
 실습하면서 겪은 오류
 
 <img width="925" height="976" alt="image" src="https://github.com/user-attachments/assets/a39d9fb9-9647-42ed-af85-1dc71f5b9d97" />
